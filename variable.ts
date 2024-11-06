@@ -6,8 +6,6 @@
 3. const - Which is use to declarare constant varaible
 */
 
-// // DataType variableName = value
-// int i = 10
 
 // keyword(var, let, const) variableName = value
 var i = 10 // Global variable
@@ -109,3 +107,5 @@ const d = 30
 
 //2. Variable declared using const cannot be redeclared and cannot be reinitialized
 // 3. It is mandatory to assign the value to a variable at the time declaration
+
+
