@@ -1,11 +1,11 @@
 // Data Type - Which defines what kind of data a variable is storing
 
-//let num = 10// "String", false, null //(integer)
+//let num = 10, 20, 30, 40// "String", false, null //(integer)
 
 // 2 Types of data types
 
 /*
-1. Primitive data type
+1. Primitive data type - only one value
 
 1. number
 2. string
@@ -14,11 +14,11 @@
 5. undefined
 6. any
 
-2. Non-primitive Data types
+2. Non-primitive Data types - object
 
 1. Array
 2. Object
-3. Function
+3. Functions
 
 
 */
