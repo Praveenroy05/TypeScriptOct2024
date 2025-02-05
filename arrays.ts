@@ -117,8 +117,6 @@ const array11 = [23,12,13,14,25,26,14]
 console.log(array11.indexOf(14)); //3
 console.log(array11.indexOf(14, 4)); //6
 
-// assignment - get the index of all occurances of an element from an array - [1,2,3,4,5,2,3,2,2]
-// while loop
 
 // 8. includes(parameter) - Checks whether an array includes the searchElement
 // Syntax:
